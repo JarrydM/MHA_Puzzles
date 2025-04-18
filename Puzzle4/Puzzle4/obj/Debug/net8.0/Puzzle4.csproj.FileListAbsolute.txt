@@ -1,0 +1,14 @@
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\bin\Debug\net8.0\Puzzle4.exe
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\bin\Debug\net8.0\Puzzle4.deps.json
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\bin\Debug\net8.0\Puzzle4.runtimeconfig.json
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\bin\Debug\net8.0\Puzzle4.dll
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\bin\Debug\net8.0\Puzzle4.pdb
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.AssemblyInfoInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.AssemblyInfo.cs
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.dll
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\refint\Puzzle4.dll
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.pdb
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\Puzzle4.genruntimeconfig.cache
+C:\Users\Jarryd\source\repos\Puzzle4\Puzzle4\obj\Debug\net8.0\ref\Puzzle4.dll

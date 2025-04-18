@@ -1,0 +1,14 @@
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\bin\Debug\net8.0\Puzzle6.exe
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\bin\Debug\net8.0\Puzzle6.deps.json
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\bin\Debug\net8.0\Puzzle6.runtimeconfig.json
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\bin\Debug\net8.0\Puzzle6.dll
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\bin\Debug\net8.0\Puzzle6.pdb
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.AssemblyInfoInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.AssemblyInfo.cs
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.dll
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\refint\Puzzle6.dll
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.pdb
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\Puzzle6.genruntimeconfig.cache
+C:\Users\Jarryd\source\repos\Puzzle6\Puzzle6\obj\Debug\net8.0\ref\Puzzle6.dll

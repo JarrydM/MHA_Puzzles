@@ -1,0 +1,14 @@
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.AssemblyInfoInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.AssemblyInfo.cs
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\bin\Debug\net8.0\Puzzle3.exe
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\bin\Debug\net8.0\Puzzle3.deps.json
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\bin\Debug\net8.0\Puzzle3.runtimeconfig.json
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\bin\Debug\net8.0\Puzzle3.dll
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\bin\Debug\net8.0\Puzzle3.pdb
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.dll
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\refint\Puzzle3.dll
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.pdb
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\Puzzle3.genruntimeconfig.cache
+C:\Users\Jarryd\source\repos\Puzzle3\Puzzle3\obj\Debug\net8.0\ref\Puzzle3.dll
